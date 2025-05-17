@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm i:*)",
+      "Bash(bun install:*)",
+      "Bash(bun run:*)",
+      "Bash(google-chrome:*)",
+      "Bash(curl:*)",
+      "Bash(pkill:*)",
+      "Bash(true)",
+      "Bash(bun --bun run next dev -H 0.0.0.0)"
+    ],
+    "deny": []
+  }
+}
